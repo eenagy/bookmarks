@@ -11,5 +11,6 @@ Book interesting and useful GitHub projects
 
 ### Ethereum starter templatets
 
-[create-eth-app](https://github.com/PaulRBerg/create-eth-app)
-[jolly-roger](https://github.com/wighawag/jolly-roger)
+* [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
+* [jolly-roger](https://github.com/wighawag/jolly-roger)
+* [eth scaffold](https://github.com/austintgriffith/scaffold-eth)
