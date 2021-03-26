@@ -21,3 +21,4 @@ Book interesting and useful GitHub projects
 * [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
 * [jolly-roger](https://github.com/wighawag/jolly-roger)
 * [eth scaffold](https://github.com/austintgriffith/scaffold-eth)
+* [typed frontend](https://github.com/adrianmcli/dapp-boilerplate)
