@@ -1,7 +1,8 @@
 # bookmarks
 Book interesting and useful GitHub projects
 
-[Rollup typescript-babel example](https://github.com/eenagy/rollup-typescript-babel)
+* [Rollup typescript-babel example](https://github.com/eenagy/rollup-typescript-babel)
+* [tsdx](https://tsdx.io/) Zero-config CLI for TypeScript package development
 
 
 ## Ethereum resources
@@ -36,6 +37,7 @@ Book interesting and useful GitHub projects
 ### Tooling
 
 * [typechain](https://github.com/ethereum-ts/TypeChain)
+* [use-wallet](https://github.com/aragon/use-wallet)
 
 ### Projects
 
