@@ -8,6 +8,8 @@ Book interesting and useful GitHub projects
 
 [Awesome ethereum](https://github.com/bekatom/awesome-ethereum)
 
+### Concepts
+
 **Multicalls**
 
 * [ethers multicall support](https://github.com/ethers-io/ethers.js/issues/788)
@@ -19,6 +21,12 @@ Book interesting and useful GitHub projects
 ### Ethereum starter templatets
 
 * [create-eth-app](https://github.com/PaulRBerg/create-eth-app)
-* [jolly-roger](https://github.com/wighawag/jolly-roger)
-* [eth scaffold](https://github.com/austintgriffith/scaffold-eth)
-* [typed frontend](https://github.com/adrianmcli/dapp-boilerplate)
+* [svelte:jolly-roger](https://github.com/wighawag/jolly-roger)
+* [create-react-app:eth scaffold](https://github.com/austintgriffith/scaffold-eth)
+* [react:nextjs:typed frontend](https://github.com/adrianmcli/dapp-boilerplate)
+* [solidity template](https://github.com/paulrberg/solidity-template)
+* [vue:dapp starter](https://github.com/chiangmaidapps/dapp-starter-kit)
+
+### Tooling
+
+* [typechain](https://github.com/ethereum-ts/TypeChain)
