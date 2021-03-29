@@ -9,6 +9,10 @@ Book interesting and useful GitHub projects
 
 [Awesome ethereum](https://github.com/bekatom/awesome-ethereum)
 
+## Books, articles, whitepapers
+
+*[Mastering ethereum (resources)](https://github.com/ethereumbook/ethereumbook)
+
 ### Concepts
 
 **Multicalls**
