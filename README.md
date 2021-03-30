@@ -11,7 +11,9 @@ Book interesting and useful GitHub projects
 
 ## Books, articles, whitepapers
 
-*[Mastering ethereum (resources)](https://github.com/ethereumbook/ethereumbook)
+* [Mastering ethereum (resources)](https://github.com/ethereumbook/ethereumbook)
+* [ICAP](https://eth.wiki/en/ideas/inter-exchange-client-address-protocol-icap)
+* [beigepaper](https://github.com/chronaeon/beigepaper/blob/master/beigepaper.pdf)
 
 ### Concepts
 
@@ -42,8 +44,10 @@ Book interesting and useful GitHub projects
 
 * [typechain](https://github.com/ethereum-ts/TypeChain)
 * [use-wallet](https://github.com/aragon/use-wallet)
+* [matomoto](https://matomo.org/) Google Analytics alternative that protects your data and your customers' privacy
 
 ### Projects
 
 * [mycrypto](https://mycrypto.com/)
 MyCrypto is an open-source tool that allows you to manage your Ethereum accounts privately and securely. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands. 
+* [mew wallet](https://github.com/MyEtherWallet/MyEtherWallet)
