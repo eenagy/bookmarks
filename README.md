@@ -39,6 +39,8 @@ Book interesting and useful GitHub projects
 * [react:nextjs:typed frontend](https://github.com/adrianmcli/dapp-boilerplate)
 * [solidity template](https://github.com/paulrberg/solidity-template)
 * [vue:dapp starter](https://github.com/chiangmaidapps/dapp-starter-kit)
+* [wighawag's hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
+* [symfoni react, context autogeneration](https://github.com/symfoni/symfoni-monorepo)
 
 ### Tooling
 
